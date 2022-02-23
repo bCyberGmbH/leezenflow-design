@@ -6,7 +6,7 @@ Dieses Repository enthält alle Dateien zum Leezenflow Design und 3D Druck.
 
 ## Dokumentation
 
-Eine Dokumentation des Designprozesses mit zahlreichen Designvariationen findet Du in [dieser PDF-Datei](https://github.com/bCyberGmbH/leezenflow-design/blob/main/BA_leezenflow_doku_auszug.pdf).
+Eine Dokumentation des Designprozesses mit zahlreichen Designvariationen findest Du in [dieser PDF-Datei](https://github.com/bCyberGmbH/leezenflow-design/blob/main/BA_leezenflow_doku_auszug.pdf).
 Die Dokumentation zum Nachbau und weitere Links findest du im Repository ["Leezenflow Dokumentation"](https://github.com/bCyberGmbH/leezenflow-doku).
 
 ## Lizenz
